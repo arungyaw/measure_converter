@@ -1,5 +1,5 @@
 name: measures_converter
-description: A simple Flutter conversion app (metric ↔ imperial, including distance, weight, volume, and temperature).
+description: A simple Flutter conversion app (metric <-> imperial, including distance, weight, volume, and temperature).
 publish_to: 'none'
 version: 1.0.0+1
 
