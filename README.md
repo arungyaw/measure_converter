@@ -18,14 +18,14 @@ A simple Flutter app for converting between metric and imperial units.
    ```bash
    git clone https://github.com/<your-username>/measure_converter.git
    cd measure_converter
+
+2. Install Dependencies:
+   ```bash
+   flutter pub get
    
-##Install dependencies
-
-flutter pub get
-
-##Run on emulator or device
-
-flutter run
+3. Run on emulator or device
+   ```bash
+   flutter run
 
 
 
